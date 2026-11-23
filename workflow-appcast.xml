@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss version="2.0"><channel><title>Epic Sidekick Updates</title><link>https://www.patreon.com/samhurd</link><description>Updates for the complete Epic Sidekick Lightroom Classic plug-in.</description></channel></rss><!-- sparkle-signatures:
-edSignature: u0S456N5BfqB2tBWVki8d1xQxV3wx1iGzcmMjXjob4g5x90evClj9mpbM5nLHthkAkKuAaBUhoMlBUYV408kBQ==
-length: 507
+--><rss xmlns:sidekick="https://samhurdphotography.com/epic-sidekick/updates" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Epic Sidekick Updates</title><link>https://www.patreon.com/samhurd</link><description>Updates for the complete Epic Sidekick Lightroom Classic plug-in.</description><item><title>Epic Sidekick 1.0.0 (766)</title><sparkle:version>766</sparkle:version><sparkle:shortVersionString>1.0.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><sparkle:informationalUpdate></sparkle:informationalUpdate><link>https://www.patreon.com/posts/173481840</link><description>Clean Sweep now lets you show, re-mark, or remove affected photos directly from Review Needed. Removing a queue record keeps your Lightroom edits.
+
+If Lightroom cannot confirm a Generative Remove result, Clean Sweep holds that photo for review. Dismiss any Lightroom alert, then choose Continue Remaining Photos. Earlier results stay available and the uncertain removal is kept for inspection.
+
+Queue Details now distinguishes completed removals from photos needing review. Choose Show Photos Needing Review to select those photos in Lightroom.
+</description><sidekick:archiveSignature>25NR9rolRIjI2uw5Uk4ks7Kl0PDITxY4TpT0mZo08QtCUm6IEkMyPlAGjwAG29vioum64LSHEWV7ArIvIUwKDA==</sidekick:archiveSignature><sidekick:archiveLength>36201177</sidekick:archiveLength></item></channel></rss><!-- sparkle-signatures:
+edSignature: Wgd0VcRbmXrCllD9J5q+4ky5zhSrJzQoitH+OThYIXojcjk70E6hPJJl4Zv+aCHCqhZfEYZWKr8AfNrCYPooCw==
+length: 1746
 -->
